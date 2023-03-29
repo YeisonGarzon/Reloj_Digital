@@ -1,0 +1,40 @@
+*{ 
+    padding: 0;
+    margin: 0;
+}
+html{
+    height:  100%;
+    font-family: sans-serif;
+}
+body{
+    background: linear-gradient(blue, rgb(0, 0, 0));
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 2px 2px 7px black;
+    padding: 50px 0px 50px 0px;
+    font-size: 70px;
+}
+
+fieldset{
+    width: 350px;
+    margin: auto;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 7px 10px 25px 10px black;
+    text-shadow: 2px 2px 2px black;
+    
+}
+legend{
+    color: aliceblue;
+    font-size: 28px;
+}
+h2{
+    font-size: 110px;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 2px 2px 7px black;
+    padding: 0px 40px;
+}
